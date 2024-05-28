@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: static;
+}
+header{
+    background:#b3cccc;
+    height: 77px;
+    width: 100%;
+    display: flex;
+}
+ul li{
+    display: inline;
+    align-items: right;
+    text-align: right;
+}
+a{
+text-decoration: none;
+display: inline;
+margin-left: 30px;
+font-size: 17px;
+color: black;
+font-family: "Lexend Tera", sans-serif; 
+font-weight: bolder;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 460px;
+}
+.logo img{
+    height: 50px;
+    width: 53.32px;
+    margin-left: 80px;
+    margin-top: 12px;
+}
+.green {
+    color: #6EAB36;
+    font-family: "Lato",sans-serif;
+  }
+  
+  .blue {
+    color:#2A30CA;
+    font-family: "Lato",sans-serif;
+  }
+.logo p{
+    margin-left: 130px;
+    margin-top: -40px;
+
+}
